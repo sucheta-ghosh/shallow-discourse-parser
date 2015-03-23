@@ -1,0 +1,1 @@
+This is an end-to-end discourse parser developed during phd thesis studies by the author in University of Trento (2012). This parser parses arguments and connectives given an input of text chunk.
